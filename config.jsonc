@@ -1,0 +1,9 @@
+{
+    // The version of the program. DO NOT CHANGE!
+    "version": "1.0.0",
+
+    // The default path to download videos to. use '<USERNAME>' as a variable for your PC username (Windows platform only).
+    "defaultDownloadPath": "C:\\Users\\<USERNAME>\\Videos",
+    // The default file format to download videos in.
+    "defaultFormat": "mp4"
+}
